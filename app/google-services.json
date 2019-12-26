@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164265412724",
+    "firebase_url": "https://hackathon-cabb9.firebaseio.com",
+    "project_id": "hackathon-cabb9",
+    "storage_bucket": "hackathon-cabb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164265412724:android:f37678908d11234d97a921",
+        "android_client_info": {
+          "package_name": "com.varun.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164265412724-qrcdfc961k3cbucv63hstgik5kpiu96j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varun.hackathon",
+            "certificate_hash": "1d2e88ea4c1781a0717ec0c3298497c6a6708059"
+          }
+        },
+        {
+          "client_id": "164265412724-oltpr3aoaa1jfht338meid8bmt8iv0ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gRu4CDLb5Q3hK8uNVqenZ7oslQpWd-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164265412724-oltpr3aoaa1jfht338meid8bmt8iv0ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
